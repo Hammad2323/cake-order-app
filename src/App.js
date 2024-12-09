@@ -154,7 +154,10 @@ function App() {
           <div className="product-list pastries-list">
             {pastries.map((pastry) => (
               <div key={pastry.id} className="product-item pastry-item">
-                <img src={pastry.image} alt={pastry.name} className="product-image" />
+                <img src={pastry.image} alt={pastry.name} className="product-image" style={{
+                  height:'60px',
+                  width:"60px"
+                }} />
                 <div className="product-info">
                   <h3>{pastry.name}</h3>
                   <p className="price">${pastry.price}</p>
