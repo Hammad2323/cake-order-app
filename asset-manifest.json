@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cake-order-app/static/css/main.f69b7811.css",
+    "main.js": "/cake-order-app/static/js/main.a2833bba.js",
+    "static/js/453.a434c6af.chunk.js": "/cake-order-app/static/js/453.a434c6af.chunk.js",
+    "index.html": "/cake-order-app/index.html",
+    "main.f69b7811.css.map": "/cake-order-app/static/css/main.f69b7811.css.map",
+    "main.a2833bba.js.map": "/cake-order-app/static/js/main.a2833bba.js.map",
+    "453.a434c6af.chunk.js.map": "/cake-order-app/static/js/453.a434c6af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69b7811.css",
+    "static/js/main.a2833bba.js"
+  ]
+}
